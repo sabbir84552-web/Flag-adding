@@ -1,6 +1,6 @@
 import { use, useState } from "react";
 import type { CountryType } from "../types/Country";
-import Country from "../country/country";
+import Country from "../country/Country.tsx";
 
 
 
